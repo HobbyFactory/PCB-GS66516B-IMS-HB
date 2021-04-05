@@ -1,2 +1,7 @@
 # PCB-GS66516B-IMS-HB
-Innovative GaN (GS66516B) Half Bridge PCB based on isolated metal substrate board IMS.
+GaN (GS66516B) Half-Bridge PCB designed on isolated metal substrate board, including gate drivers.
+
+![photo_of_proto](https://github.com/HobbyFactory/PCB-GS66516B-IMS-HB/blob/master/doc/photo.jpg)
+
+All production data included. For more details check article:
+Efficiency optimization of totem pole PFC with Gallium Nitride semiconductors (doi:10.15199/48.2021.06.07)
